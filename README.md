@@ -105,9 +105,9 @@
 
 
 <h1>🎯 Fun / Personal Goals</h1>
-<p>
+<h4>
   🚀 Building scalable web apps • 💡 Learning new tech stacks • 🏃‍♂️ Fitness & problem-solving • 🎮 Gaming & AI experiments
-</p>
+</h4>
 
 ###
 
