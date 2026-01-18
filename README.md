@@ -4,7 +4,7 @@
 
 ###
 <div align="center">
-  <img height="170" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="170" width="200" src="./assets/Shayan Sheikh.png"  />
 </div>
 
 <h1 align="center">Hi 👋! My name is Shayan Sheikh 👨‍💻</h1>
