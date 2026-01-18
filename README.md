@@ -87,14 +87,16 @@
 </div>
 
 ###
-<h2 align="left">✍️ Random Dev Quote</h2>
-</br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ShayanSheikh1936/ShayanSheikh1936/output/snake.svg" alt="Snake animation" />
+
+###
+<h2 align="left">✍️Random Dev Quote</h2>
+</br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ###
 
