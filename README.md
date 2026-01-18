@@ -3,7 +3,9 @@
 </div>
 
 ###
-<img src="https://i.imgflip.com/60efzo.gif" height="170"/>
+<div align="center">
+  <img height="170" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 <h1 align="center">Hi 👋! My name is Shayan Sheikh 👨‍💻</h1>
 
